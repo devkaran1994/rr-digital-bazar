@@ -1,4 +1,4 @@
-assets/style.css
+
 :root{--navy:#071426;--navy2:#0d2340;--gold:#f7c928;--cyan:#48d8ff;--white:#fff;--muted:#718096;--bg:#f5f8fc;--line:#e5ebf3}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,Arial,sans-serif;color:#17233b;background:var(--bg);line-height:1.65}
 a{text-decoration:none}.top{background:#050e1b;color:#b8c5d5;text-align:center;padding:8px 5%;font-size:12px}.top b{color:var(--gold)}
