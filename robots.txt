@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devkaran1994.github.io/rr-digital-bazar/sitemap.xml
